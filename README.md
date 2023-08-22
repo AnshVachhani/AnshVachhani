@@ -3,4 +3,4 @@
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg
+[Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg
